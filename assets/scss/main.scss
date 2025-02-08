@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #3490dc;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  background-color: #f8f9fa;
+  color: var(--primary-color);
+}
